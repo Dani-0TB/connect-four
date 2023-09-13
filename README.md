@@ -9,3 +9,6 @@ with the plus of everything I've been learning in CS50, and MIT 6.00.1x Intro to
 You only need python's promt-toolkit and the colorama libraries to use this program. This is a CLI program, and it might not work in some teminals incompatible with ANSI colors. colorama initialization should take care of that but it is untested. 
 
 If you wanna play without colors, just edit the player symbols to be an X and and O instead of two O's. 
+
+
+Edit: Este repo es una resubida de mi cuenta antigua Dani-41TB
